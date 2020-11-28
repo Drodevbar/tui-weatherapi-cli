@@ -1,7 +1,7 @@
 FROM centos:7
 
 ENV PHP_VERSION=80
-ENV COMPOSER_VERSION=1.10.13
+ENV COMPOSER_VERSION=2.0.7
 
 RUN rpm -Uvh https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm && \
     rpm -Uvh https://rpms.remirepo.net/enterprise/remi-release-7.rpm
