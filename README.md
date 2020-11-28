@@ -1,6 +1,6 @@
 ## Table of contents
-1. [Step #1 (development)](#markdown-header-development)
-2. [Step #2 (API design)](#markdown-header-api-design)
+1. [Step #1 (development)](#development)
+2. [Step #2 (API design)](#api-design)
 
 ## Development
 

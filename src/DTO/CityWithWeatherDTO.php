@@ -11,7 +11,7 @@ final class CityWithWeatherDTO implements Stringable
     private CityWithCoordinatesDTO $cityWithCoordinatesDTO;
     private TwoDaysForecastDTO $twoDaysForecastDTO;
 
-    public function __construct() {}
+    private function __construct() {}
 
     public static function fromCityWithCoordinatesAndTwoDaysForecast(
         CityWithCoordinatesDTO $cityWithCoordinatesDTO,
